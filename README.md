@@ -6,10 +6,10 @@ Welcome to the Istanbul Digital Nomads community. This repo contains everything 
 
 ## Contents
 
-- [Code of Conduct](CODE_OF_CONDUCT.md) — Our community standards and expectations
-- [Contributing Guide](CONTRIBUTING.md) — How to get involved and contribute
-- [Moderation Policy](MODERATION.md) — How we handle issues and keep the community healthy
-- [FAQ](FAQ.md) — Common questions from new members
+- [Code of Conduct](CODE_OF_CONDUCT.md) - Our community standards and expectations
+- [Contributing Guide](CONTRIBUTING.md) - How to get involved and contribute
+- [Moderation Policy](MODERATION.md) - How we handle issues and keep the community healthy
+- [FAQ](FAQ.md) - Common questions from new members
 
 ## Our Values
 
